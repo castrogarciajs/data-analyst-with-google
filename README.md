@@ -15,5 +15,4 @@ Ask questions to make data-driven decisions
 - Analyze data to answer questions
 - Share data through the art of visualization
 - Data analysis with R programming
-- Google Data Analytics Capstone: Complete a Case Study
-
+- Google Data Analytics Capstone: Complete a Case Study. 
