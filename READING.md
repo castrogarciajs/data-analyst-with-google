@@ -20,4 +20,4 @@ Antes de escribir una entrada en el registro de aprendizaje, piensa dónde y có
 
 - ¿Cuántas horas duermes cada día? 
 
-A continuación, seleccionarás una de las cinco preguntas de tu lista para explorar más a fondo y anotar los tipos de datos que podrías recopilar para tomar una decisión. ¡Esto es el análisis de datos en acción!
+A continuación, seleccionarás una de las cinco preguntas de tu lista para explorar más a fondo y anotar los tipos de datos que podrías recopilar para tomar una decisión. ¡Esto es el análisis de datos en acción!. 
