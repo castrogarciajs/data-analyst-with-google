@@ -5,7 +5,7 @@
 ### Descripción general
 
 A esta altura, ya has empezado a descubrir cuán potentes pueden ser los datos. A lo largo de este curso, se te pedirá que hagas entradas en un registro de aprendizaje. El registro será un espacio personal en el que podrás realizar un seguimiento de tus ideas y reflexiones sobre tu experiencia en relación con la recopilación y el análisis de datos. Las reflexiones pueden incluir lo que te gustó, lo que cambiarías y las preguntas que se plantearon. Cuando completes la entrada de esta actividad, tendrás un mayor conocimiento del análisis de datos.
-
+-
 ### Datos cotidianos 
 
 Antes de escribir una entrada en el registro de aprendizaje, piensa dónde y cómo usas los datos para tomar decisiones. Crearás una lista de al menos cinco preguntas con datos para responder. Estos son algunos ejemplos que te inspirarán:
